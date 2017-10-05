@@ -17,5 +17,6 @@ namespace DiagnosticToCSV
         public int DupeCount { get; set; }
 
         public int Duration { get; set; }
+        /// more properties here
     }
 }
